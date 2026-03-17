@@ -38,3 +38,8 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,icloud.apple.com
 DOMAIN-SUFFIX,gc.apple.com
+DOMAIN,audio-ssl.itunes.apple.com
+
+# iMessage
+DOMAIN-KEYWORD,apac-china-courier
+DOMAIN-KEYWORD,courier.push.apple.com
