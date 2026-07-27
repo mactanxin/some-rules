@@ -8,3 +8,12 @@ DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-KEYWORD,apple-relay
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,diabrowser.engineering
+
+DOMAIN-KEYWORD,mask-api.fe
+DOMAIN-KEYWORD,apple-dns
+DOMAIN-KEYWORD,gateway.icloud
+DOMAIN-KEYWORD,gspel-ssl.1s.apple.com
+DOMAIN-KEYWORD,ls.apple
+DOMAIN-KEYWORD,mask-h2.icloud
+DOMAIN-KEYWORD,mask.icloud
+DOMAIN-KEYWORD,mzstatic
