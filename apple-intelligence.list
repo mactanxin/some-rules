@@ -1,19 +1,45 @@
-DOMAIN-SUFFIX,guzzoni.apple.com
+# Siri
+DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
+
+# Private Cloud Compute
+DOMAIN-SUFFIX,pcc.apple.com
+DOMAIN-KEYWORD,pcc
+
+# Relay
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask.apple-dns.net
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-KEYWORD,apple-relay
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,diabrowser.engineering
 
-DOMAIN-KEYWORD,mask-api.fe
-DOMAIN-KEYWORD,apple-dns
+# Apple AI
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,gs.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,static.ips.apple.com
+
+# iCloud
 DOMAIN-KEYWORD,gateway.icloud
-DOMAIN-SUFFIX,gspel-ssl.1s.apple.com
-DOMAIN-KEYWORD,ls.apple
+DOMAIN-KEYWORD,mask-api.fe
 DOMAIN-KEYWORD,mask-h2.icloud
 DOMAIN-KEYWORD,mask.icloud
-DOMAIN-KEYWORD,mzstatic
+
+# DNS
+DOMAIN-KEYWORD,apple-dns
+DOMAIN-KEYWORD,siri
+
+# 建议不要放
+# DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-KEYWORD,mzstatic
