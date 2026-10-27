@@ -1,0 +1,14 @@
+# NAME: MuseAI
+# DESCRIPTION: Meta Muse AI routing for Surge
+# Updated: 2026-10-27
+
+# Main website and authentication
+DOMAIN-SUFFIX,muse.ai
+
+# Secure VM WebSocket gateway
+DOMAIN-SUFFIX,metaaivm.com
+
+# Muse content and application services
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,ecto1usercontent.com
+DOMAIN-SUFFIX,meta-agents-apps.workers.dev
